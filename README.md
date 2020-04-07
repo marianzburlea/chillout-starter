@@ -9,3 +9,5 @@ Welcome to version two of the project **Chillout Starter**. This is the starter 
 ## How to start
 
 Click the **Fork** button than clone it from your personal GitHub account to your computer.
+
+Pull the lastest changes and create a new branch with your issue.
